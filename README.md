@@ -1,1 +1,1 @@
-this project is kind of image segmentation that work on skin to recognise cencer. this segmentation consists of two label. I defined UNET model for training images for segmentation
+this project is kind of image segmentation that work on skin to recognize cancer. this segmentation consists of two labels. I defined UNET model for training images for segmentation
